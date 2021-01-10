@@ -1,0 +1,61 @@
+.navbar{
+	background-color: rgba(106, 10, 170, 0.95);
+	
+}
+
+.navbar-nav{
+	margin-right: auto;
+	margin-left: 60%;
+}
+
+.carousel-item{
+	height: 80vh;
+	margin-top: 9vh;
+}
+
+.carousel-item h4{
+	font-weight: bold;
+	color: black;
+	-webkit-text-stroke: 0.5px white;
+}
+
+.service{
+	text-align: center;
+	padding: 70px 20px 80px 20px;
+	background-color: rgba(17, 219, 207, 0.8);
+}
+
+.service .icon{
+	margin: 0 auto;
+	width: 64px;
+	height: 64px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+	background-color: red;
+	border-radius: 50px;
+}
+
+.service .icon i{
+	font-size: 32px;
+	line-height: 1;
+	position: relative;
+	color: white;
+}
+
+.service h4{
+	margin: 10px 0 15px 0;
+	font-weight: bold;
+	font-size: 22px;
+}
+
+.service p{
+	line-height: 24px;
+	font-size: 14px;
+	margin-bottom: 0;
+}
+
+.user-login{
+	margin: 12%;
+}
